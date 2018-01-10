@@ -1,0 +1,16 @@
+PRESS b OR up-key TO GO UPWARDS
+PRESS n OR down-key TO GO UPWARDS
+PRESS space-bar OR enter TO FIRE LASER
+
+Your Objective is to Save Your
+Cargos from the Evil and Corrupted
+Alien Suicide Squad al-IGNMENT
+(ASS-IGNMENT). Move Your Spaceship
+Vertically and Save Your Cargos as Long
+as You Can.
+
+Destruction of More Than Two-Thirds of
+Your Cargo would be Indmissible by Your
+Employers, hence Game Over.
+
+PRESS ANY KEY TO CONTINUE
